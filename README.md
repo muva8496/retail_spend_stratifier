@@ -1,4 +1,4 @@
-# Reatil_spend_stratifier (`vellamo-quartile-engine`)
+# Retail_spend_stratifier (`vellamo-quartile-engine`)
 
 **High-Speed OLAP Statistical Segmentation & Window Analytics Pipeline in DuckDB and Python**
 
